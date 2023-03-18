@@ -1,17 +1,2 @@
-Meyawo Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
-
-Credits:
-
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		jQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
+Welcome to my portfolio! Here you can find some of my latest projects in web design and development. I specialize in creating modern and functional websites that meet the needs of each client. Take a look at my work and feel free to contact me for any inquiries or project proposals. 
 
